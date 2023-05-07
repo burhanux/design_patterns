@@ -9,14 +9,14 @@ npm install -g typescript
 ```
 ### To run Typescript Files
 ```bash
-tsc typescript/<folderName>/<fileName>.ts && node typescript/<folderName>/<fileName>.js
+tsc typescript/<pattern name>/<filename>.ts && node typescript/<pattern name>/<filename>.js
 ```
 
 ## Requirements for Python
 - Have Python installed https://www.python.org/
 ### To run Python Files (MacOS)
 ```bash
-python3 python/<filename>.py
+python3 python/<pattern name>/<filename>.py
 ```
 
 # References:
